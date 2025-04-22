@@ -1,6 +1,8 @@
 # Lahore History Search App
 
 An interactive web application that allows users to explore the rich history of Lahore. Powered by advanced language models (LLMs), Wikipedia, web, and PDF document retrieval, this app provides precise and context-aware answers to user queries.
+![Architecture Diagram](lahore.jpg)
+
 
 ---
 
